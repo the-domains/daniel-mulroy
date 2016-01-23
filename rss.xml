@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Daniel Mulroy]]></title>
         <description><![CDATA[Daniel Mulroy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daniel-mulroy/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Sat, 23 Jan 2016 19:31:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/daniel-mulroy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/024671f7-cab5-486b-b518-fe8ecb3d92bb.JPG">]]></description>
+            <link>https://thegrid.ai/daniel-mulroy/2c384c1e-df28-48d7-b60b-4d48efde9854/index.html</link>
+            <guid isPermaLink="false">2c384c1e-df28-48d7-b60b-4d48efde9854</guid>
+            <pubDate>Sat, 23 Jan 2016 19:31:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.bdcwire.com/wp-content/uploads/2015/09/donut-header-1000x585.jpg">]]></description>
