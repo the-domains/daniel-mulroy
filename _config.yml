@@ -1,7 +1,7 @@
 name: Daniel Mulroy
 favicon: null
-layout_spectrum: 0.1169321653433144
-typography_spectrum: 0.4570354
+layout_spectrum: 0
+typography_spectrum: 0.24131
 collections:
   - index:
       path: /
