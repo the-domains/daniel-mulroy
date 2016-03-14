@@ -1,9 +1,7 @@
-favicon: null
 name: Daniel Mulroy
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.1169321653433144
+typography_spectrum: 0.4570354
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1014096732251346
-  brandStrength: 0.7128908750601113
-  rhythmicContrast: 0.0360531413462013
   brandColors:
     - '#F7EDF0'
     - '#F4CBC6'
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  lightness: 0.9021601958665997
-typography_spectrum: 0.4570354
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.1169321653433144
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
